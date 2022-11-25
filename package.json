@@ -1,0 +1,31 @@
+{
+    "name": "react-native-dece-tools",
+    "version": "1.0.0",
+    "description": "this is designed for dece tools",
+    "homepage": "https://github.com/shelleydea/react-native-dece-tools",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-dece-tools"
+    ],
+    "author": {
+        "name": "dece",
+        "email": "dece@example.com"
+    },
+    "license": "MIT",   
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shelleydea/react-native-dece-tools.git"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "react-native-splash-screen": "^3.2.0",
+        "react-native-root-toast": "^3.4.0",
+        "react-native-network-info": "5.2.1",
+        "react-native-code-push": "^7.0.5"
+    }
+  }
+  
